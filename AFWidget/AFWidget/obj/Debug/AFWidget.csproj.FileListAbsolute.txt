@@ -1,0 +1,14 @@
+c:\users\dong_junfu.hold\documents\visual studio 2010\Projects\AFWidget\AFWidget\bin\AFWidget.dll
+c:\users\dong_junfu.hold\documents\visual studio 2010\Projects\AFWidget\AFWidget\bin\AFWidget.pdb
+c:\users\dong_junfu.hold\documents\visual studio 2010\Projects\AFWidget\AFWidget\obj\Debug\AFWidget.dll
+c:\users\dong_junfu.hold\documents\visual studio 2010\Projects\AFWidget\AFWidget\obj\Debug\AFWidget.pdb
+E:\Projects\AFWidget\AFWidget\AFWidget\bin\AFWidget.dll
+E:\Projects\AFWidget\AFWidget\AFWidget\bin\AFWidget.pdb
+E:\Projects\AFWidget\AFWidget\AFWidget\obj\Debug\AFWidget.csprojResolveAssemblyReference.cache
+E:\Projects\AFWidget\AFWidget\AFWidget\obj\Debug\AFWidget.dll
+E:\Projects\AFWidget\AFWidget\AFWidget\obj\Debug\AFWidget.pdb
+F:\Projects\AFWidget\AFWidget\AFWidget\bin\AFWidget.dll
+F:\Projects\AFWidget\AFWidget\AFWidget\bin\AFWidget.pdb
+F:\Projects\AFWidget\AFWidget\AFWidget\obj\Debug\AFWidget.csprojResolveAssemblyReference.cache
+F:\Projects\AFWidget\AFWidget\AFWidget\obj\Debug\AFWidget.dll
+F:\Projects\AFWidget\AFWidget\AFWidget\obj\Debug\AFWidget.pdb
