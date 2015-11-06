@@ -1,5 +1,5 @@
 # AFGrid
-a jquery.widgit CRUD grid
+a jquery.widget CRUD grid
 
 # How to
 jquery widget表格插件
